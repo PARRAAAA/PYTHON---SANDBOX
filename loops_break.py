@@ -1,4 +1,4 @@
-secret_number = 7
+secret_number = 10
 
 for number in range(1,11):
     if number != secret_number:
@@ -6,3 +6,7 @@ for number in range(1,11):
     else:
         print(f"{secret_number} is your secret number :)")
         break 
+
+
+
+    #ya se usar este pedo 
